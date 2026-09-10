@@ -1,0 +1,11 @@
+Category,File,Exists,Size_Bytes
+Raw dataset,data\Nassau Candy Distributor.csv,True,1979595
+Saved ML model,models\nassau_slow_shipment_model.joblib,True,27926571
+Model metadata,models\nassau_slow_shipment_model_metadata.json,True,764
+Factory scenarios,results\factory_reallocation_scenarios.csv,True,11218
+Factory recommendations,results\factory_reallocation_recommendations.csv,True,2423
+Final recommendations,results\final_factory_reallocation_recommendations.csv,True,4078
+Feature importance,results\random_forest_feature_importance.csv,True,816
+Permutation importance,results\random_forest_test_permutation_importance.csv,True,984
+Business impact summary,results\final_business_impact_summary.csv,True,484
+Business priority table,results\final_business_priority_table.csv,True,2680

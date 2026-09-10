@@ -1,0 +1,100 @@
+Transformed_Feature,Importance,Importance_Percentage,Original_Feature
+num__Order_Year,0.40900838632100184,40.90083863210018,Order_Year
+cat__Ship Mode_Standard Class,0.12333630715030881,12.333630715030882,Ship Mode
+cat__Ship Mode_First Class,0.0841720336066443,8.41720336066443,Ship Mode
+num__Order_DayOfWeek,0.0676871027081212,6.76871027081212,Order_DayOfWeek
+num__Order_Month,0.0355818609341295,3.5581860934129503,Order_Month
+cat__Ship Mode_Same Day,0.02674520865806581,2.674520865806581,Ship Mode
+cat__Ship Mode_Second Class,0.025946021271296953,2.5946021271296953,Ship Mode
+num__Cost,0.02442748012300583,2.4427480123005827,Cost
+num__Gross Profit,0.023838305547641825,2.3838305547641827,Gross Profit
+num__Sales,0.022171224758209797,2.2171224758209798,Sales
+num__Order_Quarter,0.016329402983788967,1.6329402983788968,Order_Quarter
+num__Units,0.015492663028168156,1.5492663028168157,Units
+cat__Region_Atlantic,0.005156081312246284,0.5156081312246285,Region
+cat__Region_Interior,0.004934276252844945,0.4934276252844945,Region
+cat__State/Province_New York,0.004923450888319811,0.49234508883198114,State/Province
+cat__State/Province_California,0.00476435904707948,0.476435904707948,State/Province
+cat__Region_Pacific,0.004666443286601251,0.46664432866012506,Region
+cat__Product Name_Wonka Bar -Scrumdiddlyumptious,0.004505787567865008,0.45057875678650083,Product Name
+cat__State/Province_Missouri,0.004275730624185584,0.42757306241855836,State/Province
+cat__Product Name_Wonka Bar - Nutty Crunch Surprise,0.004195203413592949,0.4195203413592949,Product Name
+cat__Product Name_Wonka Bar - Fudge Mallows,0.004115997471407587,0.4115997471407587,Product Name
+cat__Product Name_Wonka Bar - Triple Dazzle Caramel,0.00401521434236467,0.401521434236467,Product Name
+cat__Factory_Wicked Choccy's,0.0038142342899866954,0.38142342899866954,Factory
+cat__Product Name_Wonka Bar - Milk Chocolate,0.0037922977124867216,0.37922977124867213,Product Name
+cat__Region_Gulf,0.0037507129890737767,0.37507129890737767,Region
+cat__Factory_Lot's O' Nuts,0.003749561372994286,0.37495613729942856,Factory
+cat__State/Province_Texas,0.0031938578068088047,0.31938578068088047,State/Province
+cat__State/Province_Michigan,0.0030490409526208505,0.30490409526208506,State/Province
+cat__State/Province_Washington,0.002858901281239298,0.2858901281239298,State/Province
+cat__State/Province_Pennsylvania,0.0026988459918292464,0.2698845991829246,State/Province
+cat__State/Province_Illinois,0.0025450726862267714,0.25450726862267714,State/Province
+cat__State/Province_Ohio,0.002533792925286398,0.2533792925286398,State/Province
+cat__State/Province_New Mexico,0.002226434213701883,0.22264342137018828,State/Province
+cat__State/Province_Utah,0.002111170703490815,0.2111170703490815,State/Province
+cat__State/Province_Florida,0.0020332531582625156,0.20332531582625155,State/Province
+cat__State/Province_North Carolina,0.001837203945497964,0.18372039454979638,State/Province
+cat__State/Province_Ontario,0.0018130962115088464,0.18130962115088464,State/Province
+cat__State/Province_Indiana,0.001798826318552976,0.1798826318552976,State/Province
+cat__State/Province_Tennessee,0.0017828345741778785,0.17828345741778784,State/Province
+cat__State/Province_Virginia,0.0017756152706349553,0.17756152706349554,State/Province
+cat__State/Province_Kentucky,0.0015632097695243185,0.15632097695243186,State/Province
+cat__State/Province_Mississippi,0.0015403967358150743,0.15403967358150744,State/Province
+cat__State/Province_Colorado,0.0015292920812569114,0.15292920812569114,State/Province
+cat__State/Province_Georgia,0.0015196481545116968,0.1519648154511697,State/Province
+cat__State/Province_Arizona,0.001493911964486375,0.1493911964486375,State/Province
+cat__State/Province_New Jersey,0.001446956218742137,0.1446956218742137,State/Province
+cat__State/Province_Rhode Island,0.0012952731579407655,0.12952731579407656,State/Province
+cat__State/Province_Oregon,0.0012857031651300234,0.12857031651300233,State/Province
+cat__State/Province_Minnesota,0.0012724576085908215,0.12724576085908215,State/Province
+cat__State/Province_Alabama,0.0012015968086618522,0.12015968086618523,State/Province
+cat__State/Province_Connecticut,0.0010906131470480572,0.10906131470480572,State/Province
+cat__State/Province_Massachusetts,0.0010111132847194324,0.10111132847194323,State/Province
+cat__State/Province_Oklahoma,0.0009230383793151054,0.09230383793151054,State/Province
+cat__State/Province_Wisconsin,0.0009146234283449234,0.09146234283449234,State/Province
+cat__State/Province_Arkansas,0.0008775915106300213,0.08775915106300212,State/Province
+cat__Division_Chocolate,0.0008293563200690528,0.08293563200690528,Division
+cat__Country/Region_Canada,0.0008175477946053633,0.08175477946053633,Country/Region
+cat__State/Province_Maryland,0.0007800496946229528,0.07800496946229528,State/Province
+cat__State/Province_District of Columbia,0.0007714210423068359,0.07714210423068359,State/Province
+cat__Division_Other,0.0007707273948496062,0.07707273948496061,Division
+cat__State/Province_Nebraska,0.0007548670053661935,0.07548670053661935,State/Province
+cat__Country/Region_United States,0.0007040906761227519,0.07040906761227518,Country/Region
+cat__State/Province_Kansas,0.0006938217035871593,0.06938217035871592,State/Province
+cat__Factory_Secret Factory,0.0006254787608263044,0.06254787608263043,Factory
+cat__State/Province_Delaware,0.000576306209083509,0.0576306209083509,State/Province
+cat__Factory_The Other Factory,0.0004489364635184278,0.04489364635184278,Factory
+cat__Product Name_Kazookles,0.000432932183512183,0.0432932183512183,Product Name
+cat__State/Province_Iowa,0.0003993660538614649,0.03993660538614649,State/Province
+cat__Product Name_Wonka Gum,0.0003912157643757015,0.03912157643757015,Product Name
+cat__State/Province_Vermont,0.0003796923584506788,0.03796923584506788,State/Province
+cat__State/Province_Alberta,0.00033119948837676303,0.03311994883767631,State/Province
+cat__State/Province_Quebec,0.0003160174620974774,0.03160174620974774,State/Province
+cat__State/Province_Montana,0.0003096571348985884,0.03096571348985884,State/Province
+cat__State/Province_Louisiana,0.0003055391772791274,0.030553917727912737,State/Province
+cat__State/Province_South Carolina,0.00029353883850613603,0.029353883850613605,State/Province
+cat__State/Province_Nevada,0.00027578935602710073,0.02757893560271007,State/Province
+cat__State/Province_South Dakota,0.00025681601188960187,0.025681601188960186,State/Province
+cat__State/Province_New Hampshire,0.0002487757028542556,0.02487757028542556,State/Province
+cat__Product Name_Lickable Wallpaper,0.0002347565413790756,0.02347565413790756,Product Name
+cat__Division_Sugar,0.00018597117292092522,0.01859711729209252,Division
+cat__Factory_Sugar Shack,0.00014955695697317357,0.014955695697317358,Factory
+cat__State/Province_Maine,0.00013213144281301606,0.013213144281301607,State/Province
+cat__State/Province_West Virginia,0.0001208584453536554,0.01208584453536554,State/Province
+cat__State/Province_British Columbia,0.00011379809308594516,0.011379809308594516,State/Province
+cat__State/Province_Idaho,0.00011207035232511764,0.011207035232511764,State/Province
+cat__State/Province_Prince Edward Island,0.0001056540256224977,0.010565402562249769,State/Province
+cat__State/Province_Manitoba,8.954867032691643e-05,0.008954867032691643,State/Province
+cat__State/Province_Newfoundland and Labrador,8.454563553947246e-05,0.008454563553947246,State/Province
+cat__Product Name_SweeTARTS,6.642625172940692e-05,0.006642625172940692,Product Name
+cat__State/Province_Nova Scotia,6.438335273708219e-05,0.006438335273708219,State/Province
+cat__State/Province_North Dakota,5.902729628871793e-05,0.005902729628871793,State/Province
+cat__State/Province_New Brunswick,5.16467169088231e-05,0.00516467169088231,State/Province
+cat__Product Name_Laffy Taffy,2.521832947781759e-05,0.002521832947781759,Product Name
+cat__Product Name_Fun Dip,2.2111977503215902e-05,0.0022111977503215903,Product Name
+cat__Product Name_Fizzy Lifting Drinks,1.5457643181145507e-05,0.0015457643181145508,Product Name
+cat__State/Province_Saskatchewan,1.288142921048622e-05,0.001288142921048622,State/Province
+cat__Product Name_Hair Toffee,9.36214383839883e-06,0.0009362143838398829,Product Name
+cat__Product Name_Nerds,6.52767074464914e-06,0.000652767074464914,Product Name
+cat__Product Name_Everlasting Gobstopper,6.204138964462602e-06,0.0006204138964462602,Product Name

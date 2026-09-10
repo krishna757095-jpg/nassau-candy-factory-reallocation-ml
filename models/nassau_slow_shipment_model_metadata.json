@@ -1,0 +1,24 @@
+{
+    "project": "Factory Reallocation & Shipping Optimization Recommendation System",
+    "task": "Slow Shipment Classification",
+    "selected_model": "Random Forest",
+    "selection_strategy": {
+        "primary_metric": "F1_Score",
+        "secondary_metric": "Recall",
+        "tertiary_metric": "ROC_AUC"
+    },
+    "metrics": {
+        "Accuracy": 0.8234723569350145,
+        "Precision": 0.5457142857142857,
+        "Recall": 0.8925233644859814,
+        "F1_Score": 0.6773049645390071,
+        "ROC_AUC": 0.901339382742882
+    },
+    "models_evaluated": [
+        "Gradient Boosting",
+        "Random Forest",
+        "Logistic Regression"
+    ],
+    "target": "Slow_Shipment",
+    "model_file": "nassau_slow_shipment_model.joblib"
+}

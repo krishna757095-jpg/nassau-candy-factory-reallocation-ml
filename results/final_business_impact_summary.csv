@@ -1,0 +1,14 @@
+Metric,Value
+Products Evaluated,15
+Products with ML Reallocation Signal,0
+Products Recommended for Pilot,0
+Products Recommended to Keep Current Factory,15
+Total Records Covered,10194
+Total Orders Covered,8549
+Total Sales Covered,141783.63
+Total Units Covered,38654
+Total Gross Profit Covered,93442.8
+Estimated Avoided Slow Records,74.59
+Average Probability Improvement (pp),0.8446
+Maximum Probability Improvement (pp),2.5879
+Minimum Probability Improvement (pp),-0.7975
